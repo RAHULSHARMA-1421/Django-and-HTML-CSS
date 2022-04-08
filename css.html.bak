@@ -1,0 +1,9 @@
+<style>
+.background
+{
+ width:1000px
+ height:360px
+ background:url(a1.jpg)
+ border:1px solid black
+
+}

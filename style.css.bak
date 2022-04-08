@@ -1,0 +1,51 @@
+.abc{
+    background:olive;
+	height:90px;
+	padding-left:70px;
+	padding-top:20px;
+	margin-left:150px;
+	margin-right:100px;
+	align-item:center;
+	
+	
+	
+}
+
+.content{
+	padding: 5px;
+	margin:5px;
+	margin-left:150px;
+	margin-right:100px;
+	background:yellow;
+	
+	
+	
+}
+
+.adc{
+	margin-left:150px;
+	margin-right:100px;
+	padding-left:370px;
+	color:red;
+	
+}
+
+.rkk{
+	color:red;
+}
+
+.rk{
+	float:left;
+	width:0%;
+	height:1%;
+	margin-left:170px;
+	margin-right:100px;
+	border:5px solid;
+	border-color:red;
+	width:100px;
+}
+
+ 
+
+
+	 
